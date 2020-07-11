@@ -20,7 +20,13 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+
+
 /*--------crative layers styles colours navbar----------*/
+
+
+
 .navbar:not(.navbar-transparent).navbar-ct-green {
   background-color: #4cd964;
   background-color: rgba(76, 217, 98, 0.98);
@@ -45,6 +51,9 @@ body {
   opacity: 0.9;
 }
 /*--------crative layers styles----------*/
+
+
+
 .cssarrow {
 	position: relative;
 	background: #3a9bd8;
@@ -74,6 +83,8 @@ body {
 	margin-top: -52px;
 }
 /*--------crative layers styles logo----------*/
+
+
 .logo{
   text-align: center;
   
@@ -87,21 +98,6 @@ body {
   text-align: center;
   min-width: 70px;
 }
-
-
-
-/*--------crative layers styles tooltiptext----------*/
-.tooltip .tooltiptext::after {
-  content: " ";
-  position: absolute;
-  top: 100%; /* This will position the arrow at the bottom of the tooltip */
-  left: 50%;
-  margin-left: -10px;
-  border-width: 10px;
-  border-style: solid;
-  border-color: black transparent transparent transparent; /* This will make the top border black*/
-}
-
 
 
 /*-------------------------------------------------*/
